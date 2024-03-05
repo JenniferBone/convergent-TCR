@@ -14,7 +14,7 @@ Transition probability maps based on a first-order Markov model of TCR pair-wise
 
 **Figure 2** NLP featurization of TCR data shows the reduction of large TCR sequence diversity revealing signature motifs in non-responder patients
 
-![TPM Featurizer of two patient T cell repertoires](https://github.com/JenniferBone/convergent-TCR/blob/83356f310dc6a4b2c3d852905f99b8788836b6cc/figures/TCR_NLP_featurizer.png)
+![TPM Featurizer of two patient T cell repertoires](https://github.com/JenniferBone/convergent-TCR/blob/29e2fd620f0db973a0218df3be0a28a4b5d97b12/figures/TCR_NLP_featurizer_small.png)
 
 ## This Example
 Most of the code associated with this work is in a manuscript under review. However, the current repo seeks to demonstrate a small portion of code dedicated to improving TCR similarity analysis (namely improving on Levenstein distance for TCR similarity clusters). It calculates a distance matrix between the top most frequent CDR3s observed in indivual patient repertoires. 
