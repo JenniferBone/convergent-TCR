@@ -12,7 +12,7 @@ Evaluation of patients’ T and B cell repertoires is a potentially powerful ave
 ## Improved Featurization
 Transition probability maps based on a first-order Markov model of TCR pair-wise motifs was developed to reduce the feature size of TCR tree-maps to a 400-feature space. Jack-knifing was then used alongside thresholding to reveal underlying patterns in responder versus non-responder TCR data.
 
-**Figure 2** NLP featurization of TCR data shows the reduction of large TCR sequence diversity revealing signature motifs in non-responder patients
+**Figure 2** NLP featurization of TCR data shows the reduction of large TCR sequence diversity revealing signature motifs (colored in shades of yellow) in the non-responder patient.
 
 ![TPM Featurizer of two patient T cell repertoires](https://github.com/JenniferBone/convergent-TCR/blob/29e2fd620f0db973a0218df3be0a28a4b5d97b12/figures/TCR_NLP_featurizer_small.png)
 
