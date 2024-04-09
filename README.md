@@ -19,4 +19,4 @@ Transition probability maps based on a first-order Markov model of TCR pair-wise
 ## This Example
 Most of the code associated with this work is in a manuscript under review. However, the current repo seeks to demonstrate a small portion of code dedicated to improving TCR similarity analysis (namely improving on Levenstein distance for TCR similarity clusters). It calculates a distance matrix between the top most frequent CDR3s observed in indivual patient repertoires. 
 
-Please contact: bone.jennifer@gmail.com for questions on code described in the repo.
+Please contact: bone.jennifer@gmail.com for more detailed code or questions on code described in the repo.
